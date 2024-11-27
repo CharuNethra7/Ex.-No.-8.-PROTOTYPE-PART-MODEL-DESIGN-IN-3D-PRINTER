@@ -47,7 +47,8 @@
 
 ## Output:
 
-![OUTPUT (2)](https://github.com/user-attachments/assets/e5ad563c-02a6-4371-95ce-5eddad87c070)
+![EMPD](https://github.com/user-attachments/assets/059c1cef-7b26-4d8f-98e0-28f942a6bbfc)
+
 
 ### Name: CHARU NETHRA R
 ### Register Number: 212223230035
